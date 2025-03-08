@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChessClock/static/css/main.78437a66.css",
+    "main.js": "/ChessClock/static/js/main.c0ee4fc5.js",
+    "static/js/453.8411124a.chunk.js": "/ChessClock/static/js/453.8411124a.chunk.js",
+    "index.html": "/ChessClock/index.html",
+    "main.78437a66.css.map": "/ChessClock/static/css/main.78437a66.css.map",
+    "main.c0ee4fc5.js.map": "/ChessClock/static/js/main.c0ee4fc5.js.map",
+    "453.8411124a.chunk.js.map": "/ChessClock/static/js/453.8411124a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78437a66.css",
+    "static/js/main.c0ee4fc5.js"
+  ]
+}
